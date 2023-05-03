@@ -25,7 +25,7 @@
 ***
 
 # :o:补丁介绍
-本补丁汉化范围为[My Cute Roommate](https://store.steampowered.com/app/1276610/My_Cute_Roommate/)
+本补丁汉化范围为[My Cute Roommate](https://store.steampowered.com/app/1276610/My_Cute_Roommate/)。
 <br>汉化提取自GG汉化组Ver1.6.1EX版的汉化文本和字体库文件(感谢翻译)，补丁内附安装说明，有没有漏抓不知道我也就随便弄弄。存在小部分汉化组漏翻文本，基本都是简单句子可以自己解读或借助工具翻译。
 <br><br><br>
 
@@ -44,7 +44,7 @@
 <br>适配Depots Update：2020.05.23 (23 May 2020 – 19:55:01 UTC)
 <br>检查Depots Update：[[Game]My Cute Roommate](https://steamdb.info/depot/1276611/manifests/)
 <br>解压密码：vetoy
-<br>补丁下载：[百度网盘(提取码rtjj)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.My_Cute_Roommate/releases)
+<br>补丁下载：[百度网盘(提取码h6nh)](https://pan.baidu.com/s/1JZgKahI2p63fJviq14rwVg)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.My_Cute_Roommate/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁”](https://github.com/Vetoyi/CN_Patch.My_Cute_Roommate#o必读bangbang如何使用补丁)
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.My_Cute_Roommate#o补丁快速qa)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
