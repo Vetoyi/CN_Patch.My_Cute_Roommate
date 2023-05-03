@@ -41,8 +41,8 @@
 **更新日期：2021.09.17
 <br>补丁版本：0.01
 <br>适配Steam版本：1.6.1EX
-<br>适配Depots Update：2022.12.22 (22 December 2022 – 11:59:57 UTC)
-<br>检查Depots Update：[[Game]My Cute Roommate]()
+<br>适配Depots Update：2020.05.23 (23 May 2020 – 19:55:01 UTC)
+<br>检查Depots Update：[[Game]My Cute Roommate](https://steamdb.info/depot/1276611/manifests/)
 <br>解压密码：vetoy
 <br>补丁下载：[百度网盘(提取码rtjj)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.My_Cute_Roommate/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁”](https://github.com/Vetoyi/CN_Patch.My_Cute_Roommate#o必读bangbang如何使用补丁)
