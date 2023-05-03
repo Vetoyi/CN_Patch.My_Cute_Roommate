@@ -41,7 +41,7 @@
 <br>补丁版本：0.01
 <br>解压密码：vetoy
 <br>压缩包里的文件尾缀格式vetoy记得改成rar
-<br>补丁下载：[百度网盘(提取码rtjj)](https://pan.baidu.com/s/1JJcppTrnaXXygRqb4JYjZw)
+<br>补丁下载：[百度网盘(提取码rtjj)](https://pan.baidu.com/s/1JJcppTrnaXXygRqb4JYjZw)　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.My_Cute_Roommate/releases)
 <br>[更多Steam欧美黄油汉化补丁(凭兴趣随缘更新切勿催更)](https://github.com/Vetoyi/CN_Patch.RenPy_Games)**
 
 ***
