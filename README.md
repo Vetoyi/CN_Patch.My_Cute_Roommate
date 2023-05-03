@@ -1,6 +1,6 @@
 ![image]()
-# <p align="center">:video_game:Acting Lessons</p>
-**<p align="center">:cn:：表演课</p>**
+# <p align="center">:video_game:My Cute Roommate</p>
+**<p align="center">:cn:：我的可爱室友/我的性感表姐</p>**
 <p align="center">Steam正版汉化补丁，请支持正版游戏！</p>
 <p align="center">补丁后续更新请关注此Github库，该说明页也会同补丁一并更新</p>
 <p align="center">相关声明：本补丁仅供交流学习使用，请勿用于商业目的，违者后果自负，本人概不负责。</p>
@@ -23,7 +23,7 @@
 解压密码：vetoy
 压缩包里的文件尾缀格式vetoy记得改成rar
 
-若失效也可自发留言传火(勿留邮箱因为我不会发)，下面讲下补丁效果：
+补丁效果：
 [1]测试至通关全篇体验正常没发现bug(若有可以留言指出，但我肯定没得解决方案)；
 [2]存在小部分汉化组漏翻文本，基本都是简单句子可以自己解读或借助工具翻译；
 [3]游戏存档在移除并还原汉化补丁相关文件后依旧兼容可用；
