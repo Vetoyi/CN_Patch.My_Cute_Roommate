@@ -21,6 +21,7 @@
 <br>7. 其他方面有些地方我觉得较为冗余，前三次打斗玩家是无法战胜的，npc即便倒地也会无限复活再战，还不如弄成玩家只能被一拳击毙，就不会给玩家产生可以无限试错直到打赢的错觉；有些对话选项我也认为没必要过早的抛出导致贯穿游戏全程留到最后才使用，不过设计思路如此也没啥好说的，而就我所知表姐有两处地方的互动&对话选项即便好感度满了也无法得到正面效果，可能是作者忘了整了。
 <br>8. 最后和大多数欧美SLG一样，也是有BGM无人物配音，我认为问题不大。
 <br><br>反正就是还行，史低价可以一试。</details>
+
 ***
 
 # :o:补丁介绍
@@ -39,8 +40,10 @@
 # :o:补丁下载
 **更新日期：2021.09.17
 <br>补丁版本：0.01
+<br>适配Steam版本：1.6.1EX
+<br>适配Depots Update：2022.12.22 (22 December 2022 – 11:59:57 UTC)
+<br>检查Depots Update：[[Game]My Cute Roommate]()
 <br>解压密码：vetoy
-<br>压缩包里的文件尾缀格式vetoy记得改成rar
 <br>补丁下载：[百度网盘(提取码rtjj)]()　　　[GitHub(点开并下载最新补丁下方的Assets中尾缀为rar的文件)](https://github.com/Vetoyi/CN_Patch.My_Cute_Roommate/releases)
 <br>补丁安装：[目录“(必读)如何使用补丁”](https://github.com/Vetoyi/CN_Patch.My_Cute_Roommate#o必读bangbang如何使用补丁)
 <br>汉化报错等问题：[目录“补丁快速Q&A”](https://github.com/Vetoyi/CN_Patch.My_Cute_Roommate#o补丁快速qa)
