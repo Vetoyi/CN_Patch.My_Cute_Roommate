@@ -19,8 +19,8 @@
 2021.09.17汉化更新至MCR补丁Ver1.6.1EX
 
 链接：[百度网盘(提取码：rtjj)](pan.baidu.com/s/1JJcppTrnaXXygRqb4JYjZw)
-解压密码：vetoy
-压缩包里的文件尾缀格式vetoy记得改成rar
+<br>解压密码：vetoy
+<br>压缩包里的文件尾缀格式vetoy记得改成rar
 
 补丁效果：
 <br>[1]测试至通关全篇体验正常没发现bug(若有可以留言指出，但我肯定没得解决方案)；
