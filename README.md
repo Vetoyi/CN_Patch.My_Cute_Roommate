@@ -28,6 +28,7 @@
 
 # :o:补丁下载
 **更新日期：2021.09.17
+<br>补丁版本：0.01
 <br>解压密码：vetoy
 <br>压缩包里的文件尾缀格式vetoy记得改成rar
 <br>补丁下载：[百度网盘(提取码rtjj)](https://pan.baidu.com/s/1JJcppTrnaXXygRqb4JYjZw)
